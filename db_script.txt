@@ -1,0 +1,6 @@
+drop database techworld3g_2;
+
+create database techworld3g_2;
+use techworld3g_2;
+
+create table files(id int(4),title varchar(20),file mediumblob,primary key(id)) ENGINE=InnoDB DEFAULT CHARSET=latin1;
