@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Upload File</title>
+        <title>Subir Imagen</title>
     </head>
 
     <body>
